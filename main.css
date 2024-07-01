@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+    margin: 20px;
+}
+.pizzaApi{
+    
+    display: flex;
+   flex-wrap: wrap;
+}
+.pizzaApi .pizza{
+    padding: 20px;
+}
+.pizzaApi .pizza img{
+    width: 150px;
+    padding-top: 5px;
+
+}
+
